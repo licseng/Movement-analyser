@@ -26,7 +26,7 @@ Then the statistical analysis:
 
 Every 3d-pose-baseline output point has 3 variables: x coordinate, y coordinate, z coordinate
 
-### Mind that
+## Mind that
 - the extracted statistics are **NOT validated properly**! More smoothing algorithms (for time series data) should be tested.
 - during comparison of videos' statistics, fps of the examined videos matter! 
 - with different versions of OpenPose and 3d-pose-baseline the examined bodypoints and their index could change! 
@@ -38,5 +38,7 @@ Every 3d-pose-baseline output point has 3 variables: x coordinate, y coordinate,
 
 *3d_data_example.json* - 3d json data
 
+![Image2d](/Signed_avg_disp_2d_neni_exp03.png)
+![Image3d](/Signed_avg_disp_3d.png)
 
 **Videos are not uploaded due to privacy issues!**
