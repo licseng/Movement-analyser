@@ -32,13 +32,20 @@ Every 3d-pose-baseline output point has 3 variables: x coordinate, y coordinate,
 - with different versions of OpenPose and 3d-pose-baseline the examined bodypoints and their index could change! 
 
 ## Example
-*video1* - 2d json data dict
-
-*example_clean* - preprocessed 2d json data dict for 3d lifting 
-
-*3d_data_example.json* - 3d json data
-
-![Image2d](/Signed_avg_disp_2d_lany_exp03.png)
-![Image3d](/Signed_avg_disp_3d.png)
+### Files
+- *video1* - 2d json data dict
+- *example_clean* - preprocessed 2d json data dict for 3d lifting 
+- *3d_data_example.json* - 3d json data
 
 **Videos are not uploaded due to privacy issues!**
+
+### Output
+
+<p align="center"><img src="/Signed_avg_disp_2d_lany_exp03.png" width="400"/></p>
+<p align="center"><i>Example 2d output with smoothing factor 0.3</i></p>
+
+
+<p align="center"><img src="/Signed_avg_disp_3d.png" width="400"/></p>
+<p align="center"><i>Example 3d output of 3d_data_example.json with smoothing factor 0.5</i></p>
+
+
