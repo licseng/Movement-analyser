@@ -38,7 +38,7 @@ Every 3d-pose-baseline output point has 3 variables: x coordinate, y coordinate,
 
 *3d_data_example.json* - 3d json data
 
-![Image2d](/Signed_avg_disp_2d_neni_exp03.png)
+![Image2d](/Signed_avg_disp_2d_lany_exp03.png)
 ![Image3d](/Signed_avg_disp_3d.png)
 
 **Videos are not uploaded due to privacy issues!**
